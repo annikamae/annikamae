@@ -1,23 +1,27 @@
 <h3 align="left">💻 Tech Stack:</h3>
-<table border="0">
+<table border="0" color="pink">
   <tr>
-    <td align="center" width="70">
-      <img src="[[https://githubusercontent.com](https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png)" alt="html5" width="40" height="40"/>
+    <td align="center" width="70" style="border: 1px solid pink">
+      <img src="<img width="1280" height="1280" alt="HTML5_logo_and_wordmark svg" src="https://github.com/user-attachments/assets/01054f6d-89a3-4d4f-bc6e-725737880d9d" />
+" alt="html5" width="40" height="40"/>
       <br/>HTML5
     </td>
-    <td align="center" width="70">
-      <img src="[https://githubusercontent.com](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1920px-CSS3_logo_and_wordmark.svg.png)" alt="css3" width="40" height="40"/>
+    <td align="center" width="70" style="border: 1px solid pink">
+      <img src="<img width="2400" height="2400" alt="css3-logo-png-transparent" src="https://github.com/user-attachments/assets/b96ce1b4-d1f7-4360-bf53-c6f55718240a" />
+" alt="css3" width="40" height="40"/>
       <br/>CSS3
     </td>
-    <td align="center" width="70">
-      <img src="[https://githubusercontent.com" alt="javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png)" width="40" height="40"/>
+    <td align="center" width="70" style="border: 1px solid pink">
+      <img src="<img width="250" height="250" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/b96a3505-e08d-449c-aec8-4aac12a0024f" />
+" width="40" height="40"/>
       <br/>Python
     </td>
-    <td align="center" width="70">
-      <img src="[https://githubusercontent.com](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/960px-ISO_C%2B%2B_Logo.svg.png?_=20170928190710)" alt="react" width="40" height="40"/>
+    <td align="center" width="70" style="border: 1px solid pink">
+      <img src="<img width="960" height="1081" alt="ISO_C++_Logo svg" src="https://github.com/user-attachments/assets/cb7e04bc-11d3-4c21-aba2-ae085810e395" />
+" alt="react" width="40" height="40"/>
       <br/>C++
     </td>
   </tr>
 </table>
 
-<p><span style="font-style:bold">🎧 I'm currently learning:</span><span style="color:pink">Javascript & C++</p> 
+<p>🎧 I'm currently learning: <span style="color: pink; font-weight: bold;">Javascript & C++</span></p>
