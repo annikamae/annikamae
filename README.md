@@ -6,4 +6,4 @@
 <h2>────୨ৎ────</h2>
 <h4>🎧 I'm currently learning: </h4>
 <p>Javascript, React, C++, and Swift </p>
-<img src="https://skillicons.dev/icons?i=js,jsx,cpp,swift" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=js,react,cpp,swift" alt="My Skills" />
