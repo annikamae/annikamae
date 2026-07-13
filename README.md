@@ -1,7 +1,7 @@
 <h3>Hello! I'm Annika!</h3>
-<p> 📚I'm a 1st-year student studying BS Computer Science at the University of the Philippines – Mindanao Campus.</p>
-<p>🏹 Currently learning how to become a bug bounty hunter. </p>
-<p>👩‍💻 Aspiring Cybersecurity Engineer! </p>
+<p> 📚I'm a 1st-year student studying BS Computer Science at the University of the Philippines – Mindanao Campus.<br>
+🏹 Currently learning how to become a bug bounty hunter.<br>
+👩‍💻 Aspiring Cybersecurity Engineer! </p>
 
 <h3 align="left">💻 Skills:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,arduino,figma,ps,py,cpp,js" alt="My Skills" />
