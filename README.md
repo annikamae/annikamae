@@ -4,7 +4,7 @@
 👩‍💻 Aspiring Cybersecurity Engineer! </p>
 
 <h3 align="left">💻 Skills:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,arduino,figma,ps,py,cpp,js" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,arduino,figma,ps,py,cpp,js,react" alt="My Skills" />
 <h2>────୨ৎ────</h2>
 <h4>🎧 I'm currently learning: </h4>
 <p>Javascript, React, C++, and Swift </p>
