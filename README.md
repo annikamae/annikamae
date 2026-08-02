@@ -1,6 +1,6 @@
 <h3>Hello! I'm Annika!</h3>
 <p> 📚I'm a 1st-year student studying BS Computer Science at the University of the Philippines – Mindanao Campus.<br>
-🏹 Currently learning how to become a bug bounty hunter.<br>
+🏹 I love doing CTFs! <br>
 👩‍💻 Aspiring Cybersecurity Engineer! </p>
 
 <h3 align="left">💻 Skills:</h3>
