@@ -7,5 +7,5 @@
 <img src="https://skillicons.dev/icons?i=html,css,arduino,figma,ps,py,cpp,js,react,mysql" alt="My Skills" />
 <h2>────୨ৎ────</h2>
 <h4>🎧 I'm currently learning: </h4>
-<p>Swift & Linux </p>
-<img src="https://skillicons.dev/icons?i=swift,linux" alt="My Skills" />
+<p>Dart & Linux </p>
+<img src="https://skillicons.dev/icons?i=dart,linux" alt="My Skills" />
